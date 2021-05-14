@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{7A1E7AE9-5940-44FD-AEC2-2E8F6EB11D1D}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="Item" Key="{300EA06D-365A-4A1C-89C2-33F372B61DC4}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Калькулятор13" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="Calculator" Key="{0DABE283-D96F-458E-A39E-2F6087C4C442}">
+								<Image FileName="-1930698749" Left="0" Top="0" Right="341" Bottom="634" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="Calculator" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="button1" Key="{C3E1D040-C6CF-4234-8E8E-B038F7877195}">
+										<Image FileName="-1930698749" Left="24" Top="298" Right="84" Bottom="369" />
+										<TypeInfo Item0="{0C4B3B7B-F2DE-4800-B776-65CBB4B0C0BB}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="button1" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="button4" Key="{79281F75-6505-4915-8551-42B5CDBD85FF}">
+										<Image FileName="-1155468428" Left="250" Top="534" Right="316" Bottom="605" />
+										<TypeInfo Item0="{0C4B3B7B-F2DE-4800-B776-65CBB4B0C0BB}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="button4" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="button14" Key="{CCD81D7F-BC32-4023-B126-621A8D62C71F}">
+										<Image FileName="-376035930" Left="178" Top="534" Right="243" Bottom="605" />
+										<TypeInfo Item0="{0C4B3B7B-F2DE-4800-B776-65CBB4B0C0BB}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="button14" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="textBox" Key="{87554639-1735-436E-AE54-F02A490088C7}">
+										<Image FileName="-1401458389" Left="24" Top="52" Right="317" Bottom="155" />
+										<TypeInfo Item0="{0BF1BC5B-597C-425D-869A-03C89E90B055}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="textBox" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="button9" Key="{51C056E9-4075-439C-A8AE-682471332489}">
+										<Image FileName="2047839281" Left="24" Top="455" Right="90" Bottom="526" />
+										<TypeInfo Item0="{0C4B3B7B-F2DE-4800-B776-65CBB4B0C0BB}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="button9" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="button21" Key="{B67E124C-5AF1-4C1F-93C7-EFD310110BA5}">
+										<Image FileName="1176654386" Left="25" Top="162" Right="164" Bottom="212" />
+										<TypeInfo Item0="{0C4B3B7B-F2DE-4800-B776-65CBB4B0C0BB}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="button21" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="button7" Key="{D50239EA-3B8A-4D39-8D0D-534814FE5135}">
+										<Image FileName="747236945" Left="177" Top="376" Right="243" Bottom="447" />
+										<TypeInfo Item0="{0C4B3B7B-F2DE-4800-B776-65CBB4B0C0BB}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="button7" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="button17" Key="{E4B1DA5D-947A-4F3E-8B1F-C17263125312}">
+										<Image FileName="-1752417264" Left="177" Top="219" Right="243" Bottom="290" />
+										<TypeInfo Item0="{0C4B3B7B-F2DE-4800-B776-65CBB4B0C0BB}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="button17" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="button12" Key="{59DC1D26-CE1A-435E-8F91-B21F498E4F30}">
+										<Image FileName="423391113" Left="99" Top="533" Right="165" Bottom="604" />
+										<TypeInfo Item0="{0C4B3B7B-F2DE-4800-B776-65CBB4B0C0BB}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="button12" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="button16" Key="{70941C27-75C7-485F-97D6-209FF7CE670C}">
+										<Image FileName="-56770127" Left="24" Top="218" Right="90" Bottom="289" />
+										<TypeInfo Item0="{0C4B3B7B-F2DE-4800-B776-65CBB4B0C0BB}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="button16" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="button11" Key="{BEBC8A64-A787-43D9-BF8E-C13F5AA52F22}">
+										<Image FileName="112702850" Left="176" Top="455" Right="242" Bottom="526" />
+										<TypeInfo Item0="{0C4B3B7B-F2DE-4800-B776-65CBB4B0C0BB}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="button11" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="button6" Key="{760DBF83-4700-4FED-9B23-CC3FBCD03F52}">
+										<Image FileName="2002906801" Left="99" Top="376" Right="165" Bottom="447" />
+										<TypeInfo Item0="{0C4B3B7B-F2DE-4800-B776-65CBB4B0C0BB}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="button6" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="button22" Key="{40036BA2-0964-461A-8E10-CA65DAB111F9}">
+										<Image FileName="-1842441919" Left="177" Top="161" Right="316" Bottom="211" />
+										<TypeInfo Item0="{0C4B3B7B-F2DE-4800-B776-65CBB4B0C0BB}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="button22" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="button10" Key="{F46152F6-139F-46FD-8DA4-AC2CBF4947BE}">
+										<Image FileName="2039727614" Left="99" Top="455" Right="165" Bottom="526" />
+										<TypeInfo Item0="{0C4B3B7B-F2DE-4800-B776-65CBB4B0C0BB}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="button10" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="button5" Key="{87C24DDA-FF7B-497B-8C21-6DC306260182}">
+										<Image FileName="-238619482" Left="25" Top="376" Right="91" Bottom="447" />
+										<TypeInfo Item0="{0C4B3B7B-F2DE-4800-B776-65CBB4B0C0BB}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="button5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="button20" Key="{DBCDBC3D-71C3-4646-8DB8-3CCAE11C15D5}">
+										<Image FileName="658910596" Left="247" Top="218" Right="313" Bottom="289" />
+										<TypeInfo Item0="{0C4B3B7B-F2DE-4800-B776-65CBB4B0C0BB}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="button20" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="Item" Owner="{300EA06D-365A-4A1C-89C2-33F372B61DC4}">
+			<Child Name="Calculator" Owner="{0DABE283-D96F-458E-A39E-2F6087C4C442}">
+				<Child Name="button1" Owner="{C3E1D040-C6CF-4234-8E8E-B038F7877195}" />
+				<Child Name="button4" Owner="{79281F75-6505-4915-8551-42B5CDBD85FF}" />
+				<Child Name="button14" Owner="{CCD81D7F-BC32-4023-B126-621A8D62C71F}" />
+				<Child Name="textBox" Owner="{87554639-1735-436E-AE54-F02A490088C7}" />
+				<Child Name="button9" Owner="{51C056E9-4075-439C-A8AE-682471332489}" />
+				<Child Name="button21" Owner="{B67E124C-5AF1-4C1F-93C7-EFD310110BA5}" />
+				<Child Name="button7" Owner="{D50239EA-3B8A-4D39-8D0D-534814FE5135}" />
+				<Child Name="button17" Owner="{E4B1DA5D-947A-4F3E-8B1F-C17263125312}" />
+				<Child Name="button12" Owner="{59DC1D26-CE1A-435E-8F91-B21F498E4F30}" />
+				<Child Name="button16" Owner="{70941C27-75C7-485F-97D6-209FF7CE670C}" />
+				<Child Name="button11" Owner="{BEBC8A64-A787-43D9-BF8E-C13F5AA52F22}" />
+				<Child Name="button6" Owner="{760DBF83-4700-4FED-9B23-CC3FBCD03F52}" />
+				<Child Name="button22" Owner="{40036BA2-0964-461A-8E10-CA65DAB111F9}" />
+				<Child Name="button10" Owner="{F46152F6-139F-46FD-8DA4-AC2CBF4947BE}" />
+				<Child Name="button5" Owner="{87C24DDA-FF7B-497B-8C21-6DC306260182}" />
+				<Child Name="button20" Owner="{DBCDBC3D-71C3-4646-8DB8-3CCAE11C15D5}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>
